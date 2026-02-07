@@ -1,27 +1,34 @@
-# Hello, I'm Abdulrahman 👋
+# Hello 👋, I'm Abdulrahman | DevOps Engineer
 
-### 👨‍💻 DevOps Engineer 
-I am a dedicated learner focused on mastering the core pillars of DevOps: **Linux, Docker, Git, Networking and etc**. I build production-minded projects to bridge the gap between development and operations.
-
----
-
-### 🛠 My Tech Stack
-- **OS:** Linux (Ubuntu/CentOS), Bash Scripting
-- **Containers:** Docker, Docker Compose
-- **Version Control:** Git, GitHub Actions
-- **Networking:** SSH, TCP/IP, DNS, Firewalls
+I am a Technical Practitioner focused on the intersection of software development and system operations. I specialize in building predictable, containerized environments and mastering the Linux ecosystem.
 
 ---
 
-### 🚀 Key Projects
-- **[DevOps-Masterclass](https://github.com/abderahman856/DevOps-Masterclass):** A comprehensive laboratory for Linux and Docker configurations.
+### 🛠 Core Competencies
+
+* **Containerization:** Docker, Docker Compose, Image Optimization.
+* **System Administration:** Linux CLI, Shell Scripting (Bash), User/Permission Management.
+* **Networking:** SSH, DNS, Firewall Configuration, Web Servers (Nginx).
+* **Development:** Git/GitHub Workflow, TypeScript, React.
+
 ---
 
-### 📈 GitHub Stats
-![Abdulrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abderahman856&show_icons=true&theme=tokyonight)
+### 🚀 Featured Work
 
-### 📫 wanna to reach me out:
-- **LinkedIn:** https://www.linkedin.com/in/abdurahman12/
-- **Email:** abderahmansaeed7@gmail.com
+#### [DevOps-Masterclass](https://github.com/abderahman856/DevOps-Masterclass)
+A comprehensive repository documenting my journey through advanced infrastructure concepts. 
+* **Highlights:** Linux hardening, Docker networking, and automated environment setup.
 
-**Welcome🤗**
+#### [DevEven](https://github.com/abderahman856/DevEven)
+A full-stack event management platform built with a focus on type safety and clean architecture.
+* **Stack:** TypeScript, React.
+
+---
+
+### 🤝 Contact & Socials
+* **LinkedIn:** https://www.linkedin.com/in/abdurahman12/
+* **Email:** abderahmansaeed7@gmail.com
+* **Location:** Somalia, Hargeisa city.
+
+
+**Welcome Again 🙏**
