@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello, I'm Abdulrahman 👋
 
-<!--
-**abderahman856/abderahman856** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 DevOps Engineer 
+I am a dedicated learner focused on mastering the core pillars of DevOps: **Linux, Docker, Git, Networking and etc**. I build production-minded projects to bridge the gap between development and operations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 My Tech Stack
+- **OS:** Linux (Ubuntu/CentOS), Bash Scripting
+- **Containers:** Docker, Docker Compose
+- **Version Control:** Git, GitHub Actions
+- **Networking:** SSH, TCP/IP, DNS, Firewalls
+
+---
+
+### 🚀 Key Projects
+- **[DevOps-Masterclass](https://github.com/abderahman856/DevOps-Masterclass):** A comprehensive laboratory for Linux and Docker configurations.
+---
+
+### 📈 GitHub Stats
+![Abdulrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abderahman856&show_icons=true&theme=tokyonight)
+
+### 📫 wanna to reach me out:
+- **LinkedIn:** https://www.linkedin.com/in/abdurahman12/
+- **Email:** abderahmansaeed7@gmail.com
+
+**Welcome🤗**
