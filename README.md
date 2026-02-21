@@ -1,4 +1,4 @@
-# Hello 👋, I'm Abdulrahman | DevOps Engineer
+# Hello 👋, I'm Abdurahman | DevOps Engineer
 
 I am a Technical Practitioner focused on the intersection of software development and system operations. I specialize in building predictable, containerized environments and mastering the Linux ecosystem.
 
