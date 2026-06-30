@@ -22,7 +22,7 @@ I build production-grade cloud infrastructure, automate software delivery, and d
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure" />
-<img src="https://img.shields.io/badge/GPC-4285F4?style=for-the-badge&logo=googlecloud" />
+<img src="https://img.shields.io/badge/Google-Cloud-4285F4?style=for-the-badge&logo=googlecloud" />
 
 </p>
 
