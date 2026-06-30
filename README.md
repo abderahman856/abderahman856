@@ -1,112 +1,194 @@
-<h1 align="center">Hi 👋, I'm Baashe Saeed</h1>
+<h1 align="center">Hi 👋, I'm Abdurahman Sa'ed</h1>
 
 <h3 align="center">
-Aspiring DevOps Engineer | Cloud Enthusiast | Automation Learner
+DevOps Engineer • AWS • Kubernetes • Terraform • GitOps • CI/CD
 </h3>
 
 <p align="center">
-I’m passionate about building reliable infrastructure, automating deployments, and continuously learning modern DevOps practices.
-Currently building production-style projects while mastering the tools used by real DevOps Engineers.
+I design and build production-grade cloud infrastructure on AWS using Kubernetes, Terraform, GitHub Actions, Docker, and GitOps practices. I enjoy building scalable, secure, and observable platforms while automating everything through Infrastructure as Code and modern DevOps workflows.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **DevOps Engineering**
-- 💻 Building real-world DevOps projects from scratch
-- ☁️ Learning AWS Cloud Infrastructure
-- 🐳 Containerizing applications with Docker
-- ⚙️ Automating deployments using GitHub Actions
-- 🏗️ Managing Infrastructure as Code with Terraform
-- ☸️ Learning Kubernetes and container orchestration
-- 📚 Documenting everything I learn
-- 🎯 Goal: Become a Professional DevOps Engineer
+- ☁️ DevOps Engineer specializing in AWS Cloud Infrastructure
+- ☸️ Building production-grade Kubernetes platforms
+- ⚙️ Passionate about Infrastructure as Code & Automation
+- 🚀 Experienced with GitOps and Continuous Delivery
+- 🔒 Security-focused with automated CI/CD pipelines
+- 📊 Interested in Monitoring, Observability & Platform Engineering
+- 🌍 Open to DevOps, Cloud Infrastructure, and Platform Engineering opportunities
 
 ---
 
 # 🛠 Tech Stack
 
-### Operating System
+### ☁️ Cloud
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Version Control
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-### Scripting
-
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
-
-### Containers
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-### CI/CD
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-
-### Infrastructure as Code
-
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
-
-### Cloud
+<p>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
-### Container Orchestration
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2)
+
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks)
+
+![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge)
+
+![ECR](https://img.shields.io/badge/ECR-FF9900?style=for-the-badge)
+
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge)
+
+![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge)
+
+![Route53](https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge)
+
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge)
+
+![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge)
+
+</p>
+
+---
+
+### ☸️ Containers & Orchestration
+
+<p>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 
-### Monitoring (Learning)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm)
+
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo)
+
+</p>
+
+---
+
+### ⚙️ Infrastructure as Code
+
+<p>
+
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
+
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible)
+
+</p>
+
+---
+
+### 🚀 CI/CD
+
+<p>
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab)
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+
+</p>
+
+---
+
+### 📊 Monitoring & Observability
+
+<p>
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
 
----
+![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge)
 
-# 📚 Current Learning Roadmap
-
-- ✅ Linux
-- ✅ Git
-- ✅ Bash Scripting
-- ✅ Networking
-- ✅ Docker
-- ✅ GitHub Actions
-- ✅ Terraform
-- ✅ AWS
-- 🚧 Kubernetes
-- ⏳ Jenkins
-- ⏳ Ansible
-- ⏳ Prometheus
-- ⏳ Grafana
+</p>
 
 ---
 
-# ⭐ Featured Projects
+### 🔒 Security
+
+<p>
+
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge)
+
+![OIDC](https://img.shields.io/badge/OIDC-0052CC?style=for-the-badge)
+
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge)
+
+![HTTPS](https://img.shields.io/badge/HTTPS-009639?style=for-the-badge)
+
+</p>
+
+---
+
+### 💻 Programming & Scripting
+
+<p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+
+</p>
+
+---
+
+### 🌐 Web Technologies
+
+<p>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+</p>
+
+---
+
+### 🖥 Operating System
+
+<p>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 | Project | Description |
-|---------|-------------|
-| 🚀 Project One | CI/CD Pipeline using GitHub Actions |
-| ☁️ Project Two | AWS Infrastructure using Terraform |
-| 🐳 Docker Project | Containerized Application |
-| ☸️ Kubernetes Project | Kubernetes Deployment |
-| 📊 Monitoring Stack | Prometheus & Grafana |
-
----
-
-# 🏆 Certifications
-
-📌 AWS Certified Cloud Practitioner *(Planned)*
-
-📌 AWS Certified Developer Associate *(Future)*
-
-📌 HashiCorp Terraform Associate *(Future)*
-
-📌 Certified Kubernetes Administrator (CKA) *(Future)*
+|----------|-------------|
+| 🚀 Production-Grade Amazon EKS Platform | Enterprise cloud-native microservices platform running on Kubernetes with Helm, ArgoCD, Terraform and GitHub Actions |
+| ☁️ AWS ECS Fargate Application | Full-stack cloud-native application deployed on ECS Fargate using Terraform, Docker and GitHub Actions |
+| ⚙️ GitHub Actions CI/CD Pipelines | Automated build, testing, security scanning and deployment pipelines |
+| ☸️ Kubernetes Infrastructure | Production-ready Kubernetes platform with Ingress, TLS, Monitoring and GitOps |
+| 📊 Observability Stack | Prometheus, Grafana and CloudWatch monitoring solution |
 
 ---
 
@@ -114,9 +196,9 @@ Currently building production-style projects while mastering the tools used by r
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abderahman856&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderahman856&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -126,7 +208,7 @@ Currently building production-style projects while mastering the tools used by r
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=abderahman856&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -142,50 +224,36 @@ Currently building production-style projects while mastering the tools used by r
 
 ---
 
-# 🎯 2026 Goals
-
-- Build 10+ production-style DevOps projects
-- Master Kubernetes
-- Deploy applications to AWS
-- Earn AWS Certification
-- Learn Monitoring & Observability
-- Practice DevOps interview questions
-- Contribute to Open Source
-
----
-
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+<a href="https://github.com/abderahman856">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+<a href="mailto:abderahmansaeed7@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
 </a>
 
 </p>
 
 ---
 
-# 💡 Favorite Quote
+# 💡 Engineering Philosophy
 
-> "Automation is good, so long as you know exactly where to put the machine."
-
-— Eliyahu Goldratt
+> *"Infrastructure should be reproducible, deployments should be automated, and reliability should be built into every system from day one."*
 
 ---
 
 <p align="center">
 
-Thanks for visiting my profile! ⭐
+⭐ Thanks for visiting my profile!
 
-If you find my projects interesting, consider giving them a ⭐.
+If you enjoy my projects, consider giving them a ⭐.
 
 </p>
