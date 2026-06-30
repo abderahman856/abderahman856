@@ -14,16 +14,6 @@ I build production-grade cloud infrastructure, automate software delivery, and d
 
 ---
 
-## 🚀 About Me
-
-- ☁️ DevOps Engineer passionate about Cloud & Platform Engineering
-- ⚙️ Building scalable, automated, and reliable infrastructure
-- 🚀 Strong advocate for Infrastructure as Code & GitOps
-- 🔒 Interested in Security, Automation, and CI/CD
-- 🌍 Open to DevOps and Cloud Engineering opportunities
-
----
-
 # 🛠 Tech Stack
 
 ### Cloud
