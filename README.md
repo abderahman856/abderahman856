@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Abdurahman Sa'ed</h1>
+<h1 align="center">Hi 👋, I'm Abdurahman Said</h1>
 
 <h3 align="center">
-DevOps Engineer • Cloud Infrastructure • Kubernetes • CI/CD • Automation
+DevOps Engineer
 </h3>
 
 <p align="center">
@@ -14,7 +14,7 @@ I build production-grade cloud infrastructure, automate software delivery, and d
 
 ---
 
-# 🛠 Tech Stack
+<h2 align="center">🛠 Tech Stack</h2>
 
 <h3 align="center">Cloud</h3>
 
@@ -45,18 +45,18 @@ I build production-grade cloud infrastructure, automate software delivery, and d
 
 </p>
 
-### Monitoring
+<h3 align="center">Monitoring</h3>
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus" />
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana" />
 
 </p>
 
-### Programming
+<h3 align="center">Programming</h3>
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -70,16 +70,8 @@ I build production-grade cloud infrastructure, automate software delivery, and d
 
 | 🚀 Project | 🔗 Link |
 |-----------|---------|
-| ☸️ **Production-Grade Amazon EKS Platform** | **[Repository](https://github.com/USERNAME/eks-project)** |
-| ☁️ **AWS ECS Fargate Deployment Platform** | **[Repository](https://github.com/USERNAME/ecs-project)** |
-
----
-
-### ☁️ AWS ECS Fargate Deployment Platform
-
-> **Repository:** https://github.com/USERNAME/ecs-project
-
-Cloud-native application deployed on AWS ECS Fargate with Docker, Terraform, and automated CI/CD.
+| ☸️ **Production-Grade Amazon EKS Platform** | **[Repository](https://github.com/abderahman856/eks-microservice-commerce)** |
+| ☁️ **AWS ECS Fargate Deployment Platform** | **[Repository](https://github.com/abderahman856/ecs-quran-translator-app)** |
 
 ---
 
@@ -87,7 +79,7 @@ Cloud-native application deployed on AWS ECS Fargate with Docker, Terraform, and
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdurahman-said-15a365410/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -95,7 +87,7 @@ Cloud-native application deployed on AWS ECS Fargate with Docker, Terraform, and
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:abderahmansaeed7@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -103,12 +95,7 @@ Cloud-native application deployed on AWS ECS Fargate with Docker, Terraform, and
 
 ---
 
-# 💭 Engineering Philosophy
+<h2 align="center">Engineering Philosophy</h2>
 
 > *"Infrastructure should be reproducible, deployments should be automated, and reliability should be built into every system from day one."*
 
----
-
-<p align="center">
-Thanks for visiting my profile! ⭐
-</p>
