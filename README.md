@@ -70,7 +70,7 @@ I build production-grade cloud infrastructure, automate software delivery, and d
 
 | 🚀 Project | 🔗 Link |
 |-----------|---------|
-| ☸️ **Production-Grade Amazon EKS Platform** | **[Repository](https://github.com/abderahman856/eks-microservice-commerce)** |
+| ☸️ **Production-Grade Amazon EKS Platform** | **[https://github.com/abderahman856/ecs-quran-translator-app](https://github.com/abderahman856/eks-microservice-commerce)** |
 | ☁️ **AWS ECS Fargate Deployment Platform** | **[Repository](https://github.com/abderahman856/ecs-quran-translator-app)** |
 
 ---
