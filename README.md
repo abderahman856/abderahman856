@@ -79,7 +79,7 @@ I build production-grade cloud infrastructure, automate software delivery, and d
 
 <p align="center">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdurahman-said-15a365410/">
+<a href="https://www.linkedin.com/in/abdurahman-said-15a365410/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
