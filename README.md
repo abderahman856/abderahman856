@@ -16,9 +16,9 @@ I build production-grade cloud infrastructure, automate software delivery, and d
 
 # 🛠 Tech Stack
 
-### Cloud
+<h3 align="center">Cloud</h3>
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure" />
@@ -66,13 +66,12 @@ I build production-grade cloud infrastructure, automate software delivery, and d
 
 ---
 
-# 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-### ☸️ Production-Grade Amazon EKS Platform
-
-> **Repository:** https://github.com/USERNAME/eks-project
-
-Production-ready Kubernetes platform on AWS using Terraform, GitHub Actions, Helm, ArgoCD, and GitOps.
+| 🚀 Project | 🔗 Link |
+|-----------|---------|
+| ☸️ **Production-Grade Amazon EKS Platform** | **[Repository](https://github.com/USERNAME/eks-project)** |
+| ☁️ **AWS ECS Fargate Deployment Platform** | **[Repository](https://github.com/USERNAME/ecs-project)** |
 
 ---
 
@@ -84,9 +83,9 @@ Cloud-native application deployed on AWS ECS Fargate with Docker, Terraform, and
 
 ---
 
-# 🤝 Connect With Me
+<h2 align="center">🤝 Connect With Me</h2>
 
-<p>
+<p align="center">
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
